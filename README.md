@@ -1,31 +1,31 @@
 <div align="center">
   
 # Deepak Kumar
-**Senior Principal Software Engineer & Architect**
+**Software Engineer | B.Tech CSE (AI) Final Year**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsdeepakkumar01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumardeepakchaudhary59@gmail.com)
 
-*Driving technical vision, building resilient distributed systems, and empowering engineering teams.*
+*Building scalable backend systems, integrating AI solutions, and mastering algorithmic problem solving.*
 
 </div>
 
 ---
 
-## 🚀 Engineering Philosophy & Focus
+## 🚀 Engineering Focus & Academic Journey
 
-As a Principal Software Engineer, I operate at the intersection of architectural design, scalable backend systems, and AI integration. My approach is rooted in **first-principles thinking**, focusing on maintainability, high performance, and system reliability to solve complex engineering challenges.
+I am a final-year Computer Science engineering student specializing in Artificial Intelligence. I approach software development with an engineering mindset—learning from first principles, focusing on writing clean code, and building systems that solve real-world problems. I am actively seeking roles where I can contribute to high-impact projects and scale sophisticated backend architectures.
 
-- **System Architecture:** Designing fault-tolerant microservices, distributed systems, and scalable data pipelines.
-- **AI Integration:** Architecting AI-powered applications and optimizing LLM deployments for enterprise use cases.
-- **Technical Leadership:** Setting engineering standards, driving cross-team technical initiatives, and mentoring the next generation of engineers.
-- **Algorithmic Rigor:** Deep expertise in Data Structures & Algorithms (1500+ problems solved, 365+ day streak, 1800+ LeetCode rating), ensuring optimal system performance at scale.
+- **Backend & Systems:** Passionate about building robust APIs, optimizing databases, and exploring microservices architectures.
+- **AI Integration:** Leveraging my academic focus in AI to build intelligent applications and integrate modern LLMs.
+- **Continuous Learning:** Driven by a deep curiosity to understand how complex systems work under the hood.
+- **Algorithmic Rigor:** Deep expertise in Data Structures & Algorithms (1500+ problems solved, 365+ day streak, 1800+ LeetCode rating), ensuring optimal code performance.
 
 ---
 
 ## 🛠️ Core Technologies
 
-I leverage a broad and deep technology stack to architect end-to-end solutions:
+I leverage a broad and deep technology stack to build end-to-end solutions:
 
 ### **Languages & Core**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
