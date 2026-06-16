@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsdeepakkumar01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumardeepakchaudhary59@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Deepak__Kumar_01/)
 
 *Building scalable backend systems, integrating AI solutions, and mastering algorithmic problem solving.*
 
@@ -56,7 +57,9 @@ I leverage a broad and deep technology stack to build end-to-end solutions:
 I maintain a rigorous practice in algorithmic problem solving to ensure sharp optimization skills and first-principles thinking.
 <br><br>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/deepak__kumar_01" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Deepak__Kumar_01/">
+    <img src="https://leetcard.jacoblin.cool/deepak__kumar_01" alt="LeetCode Stats" />
+  </a>
 </div>
 
 <details>
